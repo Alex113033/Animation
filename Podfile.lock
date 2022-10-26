@@ -1,0 +1,21 @@
+PODS:
+  - Spring (1.0.9)
+
+DEPENDENCIES:
+  - Spring (from `https://github.com/LexDeBash/Spring.git`)
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/LexDeBash/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 90cc6f0b6e45e8815d24377f2f7b5d49c3f1a463
+    :git: https://github.com/LexDeBash/Spring.git
+
+SPEC CHECKSUMS:
+  Spring: 3e8b7d144afa52f26cf1ddba349812388de6ceb7
+
+PODFILE CHECKSUM: 7b0723577b3ae01e29a5093501a18718427f1230
+
+COCOAPODS: 1.11.3
